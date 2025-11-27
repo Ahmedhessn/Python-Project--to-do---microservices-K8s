@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: notifier
-          image: husseingalal/go-notifier:latest
+          image: 01061875164/notifier:v1
           env:
             - name: CHECK_INTERVAL
               valueFrom:
