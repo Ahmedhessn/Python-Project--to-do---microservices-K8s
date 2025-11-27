@@ -4,6 +4,6 @@ metadata:
   name: app-config
 data:
   CHECK_INTERVAL: "10m"
-  MYSQL_DB: "todo"
+  MYSQL_DATABASE: "todo"
   MYSQL_HOST: "mysql"
   MYSQL_USER: "todo"
